@@ -56,14 +56,14 @@ Bana projelerimde yardımcı olan ve aktif olarak kullandığım bazı teknoloji
 
 ### 1. FileTransferTug
 > Arkadaşlarınızla veya topluluğunuzla dosya paylaşmanın en kolay yolu. Anonim olarak veya kullanıcı girişi yaparak profesyonel bir şekilde dosyalarınızı aktarabilirsiniz.
-- **Teknolojiler:** (Buraya projede kullandığın teknolojileri ekleyebilirsin, örn: Node.js, Express, EJS, CSS)
-- **Durum:** Aktif Geliştirme
+- **Teknolojiler:** Node.js, Express, EJS, CSS
+- **Durum:** ⚠️ Bu proje artık aktif olarak geliştirilmemektedir.
+
 
 ### 2. WatchTug
 > Ekran paylaşımı ile profesyonel yayın yapabildiğiniz ve arkadaşlarınızla film geceleri düzenleyebildiğiniz bir platform.
-- **Teknolojiler:** (Buraya projede kullandığın teknolojileri ekleyebilirsin)
-- **Durum:** ⚠️ Bu proje artık aktif olarak geliştirilmemektedir.
-
+- **Teknolojiler:**
+- **Durum:** Aktif Olarak Geliştirilmeye Devam Ediliyor.
 <br>
 
 ## 📊 GitHub İstatistiklerim
